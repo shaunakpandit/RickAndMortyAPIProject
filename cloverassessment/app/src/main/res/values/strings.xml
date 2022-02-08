@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cloverassessment</string>
+    <string name="name">name</string>
+    <string name="status">Status</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+</resources>
